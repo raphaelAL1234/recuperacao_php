@@ -27,6 +27,10 @@ Exibição detalhada de produtos
 
 Links de ação (editar, consultar e excluir)
 
+🗄️ Arquivo PHP
+
+ [Clique aqui para ver o código PHP](index.php)
+
 🗄️ Banco de Dados
 
 Crie um banco chamado loja_recuperacao e execute o SQL abaixo:
