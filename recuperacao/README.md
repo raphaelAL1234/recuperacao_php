@@ -5,10 +5,15 @@ Este projeto é um sistema simples para cadastro, listagem, edição, consulta e
 🚀 Funcionalidades
 
 ✔ Cadastrar produtos
+
 ✔ Editar produtos existentes
+
 ✔ Excluir produtos
+
 ✔ Consultar detalhes de um produto específico
+
 ✔ Listar todos os produtos cadastrados
+
 ✔ Conexão com o banco usando PDO
 
 📁 Estrutura do Projeto
