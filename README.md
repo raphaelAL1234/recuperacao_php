@@ -67,7 +67,7 @@ http://localhost/sua-pasta/
 
 🖼️ Imagens do Sistema
 
-![Cadastro](./printcadastro.png)
-![Consulta](./printconsulta.png)
-![Excluir](./printexcluir.png)
+![Cadastro](./print cadastro.png)
+![Consulta](./print consulta.png)
+![Excluir](./print excluir.png)
 
