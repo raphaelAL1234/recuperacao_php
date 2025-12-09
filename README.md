@@ -65,5 +65,9 @@ http://localhost/sua-pasta/
 🖼️ Modelo DER (Diagrama Entidade-Relacionamento)
 ![Modelo Lógico](./DER.png)
 
+🖼️ Imagens do Sistema
 
+![Cadastro](./cadastro.png)
+![Consulta](./consulta.png)
+![Excluir](./excluir.png)
 
